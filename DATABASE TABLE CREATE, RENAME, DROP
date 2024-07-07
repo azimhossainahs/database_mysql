@@ -1,0 +1,23 @@
+creating Database Table :-
+	
+	sql :-		CREATE TABLE table_name
+			(
+			 coloumn_name1 data_type(size),
+			 coloumn_name1 data_type(size),
+			 coloumn_name1 data_type(size),
+			 coloumn_name1 data_type(size),
+			 coloumn_name1 data_type(size),
+
+		   PRIMARY KEY (coloumn_name which can be used as primary key)
+		      );
+
+Change Table Name :-
+	
+	sql :-		RENAME TABLE Previous_name To New_name;
+
+
+
+
+Delete Table 	  :-
+	
+	sql-		DROP TABLE Table_name;
