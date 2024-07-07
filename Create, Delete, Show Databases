@@ -1,0 +1,12 @@
+Showing database :-
+
+	sql :-		SHOW DATABASES;
+
+creating Database :-
+	
+	sql :-		CREATE DATABASE a_name;
+
+Deleting Database :-
+	
+	sql :-		DROP DATABASE database name;
+
